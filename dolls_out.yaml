@@ -1,0 +1,751 @@
+- !!python/object/new:dolls_service.Doll ["\u30B3\u30EB\u30C8SAA", HG, "\u661F4",
+  !!timestamp '1900-01-01 00:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115541',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115541_i.png']
+- !!python/object/new:dolls_service.Doll [M1911, HG, "\u661F2", !!timestamp '1900-01-01
+    00:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115542', 30/30/30/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115542_i.png']
+- !!python/object/new:dolls_service.Doll [M9, HG, "\u661F3", !!timestamp '1900-01-01
+    00:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115543', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115543_i.png']
+- !!python/object/new:dolls_service.Doll [M1895, HG, "\u661F2", !!timestamp '1900-01-01
+    00:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115544', 30/30/30/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115544_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30C8\u30AB\u30EC\u30D5", HG, "\u661F3",
+  !!timestamp '1900-01-01 00:45:00', 'https://gamewith.jp/dollsfrontline/article/show/115545',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115545_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B9\u30C1\u30A7\u30C3\u30AD\u30F3",
+  HG, "\u661F4", !!timestamp '1900-01-01 00:55:00', 'https://gamewith.jp/dollsfrontline/article/show/115546',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115546_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30DE\u30AB\u30ED\u30D5", HG, "\u661F3",
+  !!timestamp '1900-01-01 00:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115549',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115549_i.png']
+- !!python/object/new:dolls_service.Doll [P38, HG, "\u661F2", !!timestamp '1900-01-01
+    00:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115550', 30/30/30/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115550_i.png']
+- !!python/object/new:dolls_service.Doll [PPK, HG, "\u661F2", !!timestamp '1900-01-01
+    00:22:00', 'https://gamewith.jp/dollsfrontline/article/show/115551', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115551_i.png']
+- !!python/object/new:dolls_service.Doll [P08, HG, "\u661F3", !!timestamp '1900-01-01
+    00:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115552', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115552_i.png']
+- !!python/object/new:dolls_service.Doll [C96, HG, "\u661F3", !!timestamp '1900-01-01
+    00:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115553', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115553_i.png']
+- !!python/object/new:dolls_service.Doll ["92\u5F0F", HG, "\u661F3", !!timestamp '1900-01-01
+    00:35:00', 'https://gamewith.jp/dollsfrontline/article/show/115554', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115554_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30A2\u30B9\u30C8\u30E9", HG, "\u661F3",
+  !!timestamp '1900-01-01 00:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115555',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115555_i.png']
+- !!python/object/new:dolls_service.Doll [FF FNP9, HG, "\u661F2", !!timestamp '1900-01-01
+    00:25:00', 'https://gamewith.jp/dollsfrontline/article/show/115621', 30/30/30/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115621_i.png']
+- !!python/object/new:dolls_service.Doll [MP-446, HG, "\u661F2", !!timestamp '1900-01-01
+    00:25:00', 'https://gamewith.jp/dollsfrontline/article/show/115622', 30/30/30/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115622_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B0\u30EA\u30BA\u30EA\u30FC", HG, "\u661F5",
+  !!timestamp '1900-01-01 01:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115627',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115627_i.png']
+- !!python/object/new:dolls_service.Doll [M950A, HG, "\u661F5", !!timestamp '1900-01-01
+    01:05:00', 'https://gamewith.jp/dollsfrontline/article/show/115628', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115628_i.png']
+- !!python/object/new:dolls_service.Doll [Mk23, HG, "\u661F4", !!timestamp '1900-01-01
+    00:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115629', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115629_i.png']
+- !!python/object/new:dolls_service.Doll [P7, HG, "\u661F4", !!timestamp '1900-01-01
+    00:55:00', 'https://gamewith.jp/dollsfrontline/article/show/115630', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115630_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30A6\u30A7\u30EB\u30ED\u30C3\u30C9MK\u2161",
+  HG, "\u661F5", !!timestamp '1900-01-01 01:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115643',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115643_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30D6\u30EC\u30F3\u30FB\u30C6\u30F3",
+  HG, "\u661F2", !!timestamp '1900-01-01 00:28:00', 'https://gamewith.jp/dollsfrontline/article/show/124085',
+  30/30/30/30, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/124085_i.png']
+- !!python/object/new:dolls_service.Doll ["Gr USP\u30B3\u30F3\u30D1\u30AF\u30C8",
+  HG, "\u661F2", !!timestamp '1900-01-01 00:28:00', 'https://gamewith.jp/dollsfrontline/article/show/124086',
+  30/30/30/30, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/124086_i.png']
+- !!python/object/new:dolls_service.Doll [P99, HG, "\u661F3", !!timestamp '1900-01-01
+    00:35:00', 'https://gamewith.jp/dollsfrontline/article/show/132559', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132559_i.png']
+- !!python/object/new:dolls_service.Doll [K5, HG, "\u661F4", !!timestamp '1900-01-01
+    00:53:00', 'https://gamewith.jp/dollsfrontline/article/show/132617', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132617_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B3\u30F3\u30C6\u30F3\u30C0\u30FC",
+  HG, "\u661F5", !!timestamp '1900-01-01 01:02:00', 'https://gamewith.jp/dollsfrontline/article/show/132584',
+  130/130/130/130, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132584_i.png']
+- !!python/object/new:dolls_service.Doll [Spitfire, HG, "\u661F4", !!timestamp '1900-01-01
+    00:52:00', 'https://gamewith.jp/dollsfrontline/article/show/132573', 130/130/130/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132573_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B8\u30A7\u30EA\u30B3", HG, "\u661F4",
+  !!timestamp '1900-01-01 00:49:00', 'https://gamewith.jp/dollsfrontline/article/show/133797',
+  130/130/130/30, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/133797_i.png']
+- !!python/object/new:dolls_service.Doll [G17, HG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115556', "\u3010\u901A\
+    \u5E381-6\u3011\u3010\u7DCA\u60251-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115556_i.png']
+- !!python/object/new:dolls_service.Doll [Five-seven, HG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/116876', "\u671F\u9593\
+    \u9650\u5B9A\u30B7\u30E7\u30C3\u30D7\u3067\u5F15\u304D\u63DB\u3048\u30A4\u30D9\
+    \u30F3\u30C8\u9650\u5B9A\u30C9\u30ED\u30C3\u30D7", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/116876_i.png']
+- !!python/object/new:dolls_service.Doll [CZ75, HG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/118013', "\u30DD\u30A4\
+    \u30F3\u30C8\u30A4\u30D9\u30F3\u30C8\u300C\u8D64\u8272\u306E\u30C6\u30FC\u30BC\
+    \u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/118013_i.png']
+- !!python/object/new:dolls_service.Doll [SPP-1, HG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/118612', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u30AD\u30E5\u30FC\u30D6\u4F5C\u6226\u300D\u3067\u5165\u624B\
+    \u30A4\u30D9\u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/118612_i.png']
+- !!python/object/new:dolls_service.Doll [PSM, HG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/123373', "\u3010\u901A\
+    \u5E387-6\u3011\u3010\u7DCA\u60257-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123373_i.png']
+- !!python/object/new:dolls_service.Doll ["59\u5F0F", HG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/124940', "2018\u5E74\
+    11\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/124940_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30CE\u30A8\u30EB", HG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/127666', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u30A6\u30B5\u30AE\u72E9\u308A\u4F5C\u6226\u300D", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/127666_i.png']
+- !!python/object/new:dolls_service.Doll [NZ75, HG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132560', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u65B0\u5E74\u306E\u8D08\u308A\u7269\u300D\u3067\u5165\u624B\
+    \u30A4\u30D9\u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132560_i.png']
+- !!python/object/new:dolls_service.Doll [HK45, HG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132572', "2019\u5E74\
+    4\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C\u30A4\u30D9\u30F3\u30C8\u300C\u6DF1\
+    \u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132572_i.png']
+- !!python/object/new:dolls_service.Doll [GSh-18, HG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132624', "\u5B9F\u7E3E\
+    \u300CNew Comic!!\u300D\u9054\u6210\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132624_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30C8\u30F3\u30D7\u30BD\u30F3", SMG, "\u661F5",
+  !!timestamp '1900-01-01 02:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115557',
+  404/404/97/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115557_i.png']
+- !!python/object/new:dolls_service.Doll [M3, SMG, "\u661F2", !!timestamp '1900-01-01
+    01:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115558', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115558_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30A4\u30F3\u30B0\u30E9\u30E0", SMG, "\u661F3",
+  !!timestamp '1900-01-01 02:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115559',
+  430/430/430/230, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115559_i.png']
+- !!python/object/new:dolls_service.Doll [Vector, SMG, "\u661F5", !!timestamp '1900-01-01
+    02:35:00', 'https://gamewith.jp/dollsfrontline/article/show/115561', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115561_i.png']
+- !!python/object/new:dolls_service.Doll [PPSh-41, SMG, "\u661F2", !!timestamp '1900-01-01
+    01:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115562', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115562_i.png']
+- !!python/object/new:dolls_service.Doll [PPS-43, SMG, "\u661F3", !!timestamp '1900-01-01
+    02:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115563', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115563_i.png']
+- !!python/object/new:dolls_service.Doll [PP-2000, SMG, "\u661F2", !!timestamp '1900-01-01
+    01:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115564', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115564_i.png']
+- !!python/object/new:dolls_service.Doll [MP40, SMG, "\u661F2", !!timestamp '1900-01-01
+    01:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115565', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115565_i.png']
+- !!python/object/new:dolls_service.Doll [Gr MP5, SMG, "\u661F4", !!timestamp '1900-01-01
+    02:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115566', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115566_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B9\u30B3\u30FC\u30D4\u30AA\u30F3",
+  SMG, "\u661F3", !!timestamp '1900-01-01 02:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115567',
+  404/404/97/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115567_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B9\u30C6\u30F3MK-\u2161", SMG, "\u661F3",
+  !!timestamp '1900-01-01 01:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115568',
+  404/404/97/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115568_i.png']
+- !!python/object/new:dolls_service.Doll [M38, SMG, "\u661F2", !!timestamp '1900-01-01
+    01:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115569', 130/130/130/130,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115569_i.png']
+- !!python/object/new:dolls_service.Doll [MicroUzi, SMG, "\u661F3", !!timestamp '1900-01-01
+    01:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115570', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115570_i.png']
+- !!python/object/new:dolls_service.Doll [m45, SMG, "\u661F2", !!timestamp '1900-01-01
+    01:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115571', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115571_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B9\u30DA\u30AF\u30C8\u30E9M4", SMG,
+  "\u661F2", !!timestamp '1900-01-01 02:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115623',
+  404/404/97/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115623_i.png']
+- !!python/object/new:dolls_service.Doll [IDW, SMG, "\u661F2", !!timestamp '1900-01-01
+    01:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115624', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115624_i.png']
+- !!python/object/new:dolls_service.Doll ["64\u5F0F", SMG, "\u661F2", !!timestamp '1900-01-01
+    01:25:00', 'https://gamewith.jp/dollsfrontline/article/show/115625', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115625_i.png']
+- !!python/object/new:dolls_service.Doll [UMP9, SMG, "\u661F4", !!timestamp '1900-01-01
+    02:15:00', 'https://gamewith.jp/dollsfrontline/article/show/115631', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115631_i.png']
+- !!python/object/new:dolls_service.Doll [UMP45, SMG, "\u661F4", !!timestamp '1900-01-01
+    02:15:00', 'https://gamewith.jp/dollsfrontline/article/show/115632', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115632_i.png']
+- !!python/object/new:dolls_service.Doll ["\u4E00\u3007\u3007\u5F0F", SMG, "\u661F5",
+  !!timestamp '1900-01-01 02:19:00', 'https://gamewith.jp/dollsfrontline/article/show/115647',
+  404/404/97/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115647_i.png']
+- !!python/object/new:dolls_service.Doll [SR-3MP, SMG, "\u661F5", !!timestamp '1900-01-01
+    02:33:00', 'https://gamewith.jp/dollsfrontline/article/show/116429', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/116429_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B9\u30AA\u30DF", SMG, "\u661F5", !!timestamp '1900-01-01
+    02:25:00', 'https://gamewith.jp/dollsfrontline/article/show/116424', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/116424_i.png']
+- !!python/object/new:dolls_service.Doll [Gr G36C, SMG, "\u661F5", !!timestamp '1900-01-01
+    02:30:00', 'https://gamewith.jp/dollsfrontline/article/show/119052', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/119052_i.png']
+- !!python/object/new:dolls_service.Doll [PP-90, SMG, "\u661F4", !!timestamp '1900-01-01
+    02:20:00', 'https://gamewith.jp/dollsfrontline/article/show/132550', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132550_i.png']
+- !!python/object/new:dolls_service.Doll ["79\u5F0F", SMG, "\u661F5", !!timestamp '1900-01-01
+    02:35:00', 'https://gamewith.jp/dollsfrontline/article/show/132561', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132561_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B7\u30D7\u30AB", SMG, "\u661F4", !!timestamp '1900-01-01
+    02:18:00', 'https://gamewith.jp/dollsfrontline/article/show/132571', 404/404/97/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132571_i.png']
+- !!python/object/new:dolls_service.Doll [PP-19-01, SMG, "\u661F4", !!timestamp '1900-01-01
+    02:18:00', 'https://gamewith.jp/dollsfrontline/article/show/132565', 400/400/100/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132565_i.png']
+- !!python/object/new:dolls_service.Doll [C-MS, SMG, "\u661F5", !!timestamp '1900-01-01
+    02:28:00', 'https://gamewith.jp/dollsfrontline/article/show/132618', 400/400/100/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132618_i.png']
+- !!python/object/new:dolls_service.Doll [FMG-9, SMG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115560', "\u3010\u901A\
+    \u5E382-6\u3011\u3010\u7DCA\u60252-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115560_i.png']
+- !!python/object/new:dolls_service.Doll [Z-62, SMG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/117761', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u30AD\u30E5\u30FC\u30D6\u4F5C\u6226\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/117761_i.png']
+- !!python/object/new:dolls_service.Doll [RO635, SMG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/119055', "\u3010\u901A\
+    \u5E387-6\u3011\u30AF\u30EA\u30A2\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/119055_i.png']
+- !!python/object/new:dolls_service.Doll [TMP, SMG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/121077', "2018\u5E74\
+    10\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/121077_i.png']
+- !!python/object/new:dolls_service.Doll [PM-06, SMG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132627', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u771F\u7D05\u306E\u30C6\u30FC\u30BC\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132627_i.png']
+- !!python/object/new:dolls_service.Doll [EVO3, SMG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132562', "2019\u5E74\
+    3\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C\u30A4\u30D9\u30F3\u30C8\u300C\u6DF1\
+    \u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132562_i.png']
+- !!python/object/new:dolls_service.Doll [UMP40, SMG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132556', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132556_i.png']
+- !!python/object/new:dolls_service.Doll [F1, SMG, "\u661F3", !!timestamp '1900-01-01
+    01:50:00', 'https://gamewith.jp/dollsfrontline/article/show/132579', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132579_i.png']
+- !!python/object/new:dolls_service.Doll [KLIN, SMG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132578', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132578_i.png']
+- !!python/object/new:dolls_service.Doll [M12, SMG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/155782', "2019\u5E74\
+    7\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/155782_i.png']
+- !!python/object/new:dolls_service.Doll [AK-47, AR, "\u661F3", !!timestamp '1900-01-01
+    03:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115593', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115593_i.png']
+- !!python/object/new:dolls_service.Doll [AS Val, AR, "\u661F4", !!timestamp '1900-01-01
+    03:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115594', 400/600/500/300,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115594_i.png']
+- !!python/object/new:dolls_service.Doll [StG44, AR, "\u661F3", !!timestamp '1900-01-01
+    03:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115595', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115595_i.png']
+- !!python/object/new:dolls_service.Doll [G41, AR, "\u661F5", !!timestamp '1900-01-01
+    04:05:00', 'https://gamewith.jp/dollsfrontline/article/show/115596', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115596_i.png']
+- !!python/object/new:dolls_service.Doll [G3, AR, "\u661F2", !!timestamp '1900-01-01
+    02:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115597', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115597_i.png']
+- !!python/object/new:dolls_service.Doll [G36, AR, "\u661F4", !!timestamp '1900-01-01
+    03:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115598', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115598_i.png']
+- !!python/object/new:dolls_service.Doll ['416', AR, "\u661F5", !!timestamp '1900-01-01
+    03:55:00', 'https://gamewith.jp/dollsfrontline/article/show/115600', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115600_i.png']
+- !!python/object/new:dolls_service.Doll ["56-1\u5F0F", AR, "\u661F4", !!timestamp '1900-01-01
+    03:25:00', 'https://gamewith.jp/dollsfrontline/article/show/115601', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115601_i.png']
+- !!python/object/new:dolls_service.Doll [L85A1, AR, "\u661F2", !!timestamp '1900-01-01
+    02:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115602', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115602_i.png']
+- !!python/object/new:dolls_service.Doll [Fr FAMAS, AR, "\u661F4", !!timestamp '1900-01-01
+    03:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115603', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115603_i.png']
+- !!python/object/new:dolls_service.Doll [FF FNC, AR, "\u661F3", !!timestamp '1900-01-01
+    03:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115604', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115604_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30AC\u30EA\u30EB", AR, "\u661F2", !!timestamp '1900-01-01
+    02:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115605', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115605_i.png']
+- !!python/object/new:dolls_service.Doll [TAR-21, AR, "\u661F4", !!timestamp '1900-01-01
+    03:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115606', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115606_i.png']
+- !!python/object/new:dolls_service.Doll [SIG-510, AR, "\u661F2", !!timestamp '1900-01-01
+    02:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115607', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115607_i.png']
+- !!python/object/new:dolls_service.Doll [OTs-12, AR, "\u661F3", !!timestamp '1900-01-01
+    03:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115633', 430/430/230/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115633_i.png']
+- !!python/object/new:dolls_service.Doll [FAL, AR, "\u661F5", !!timestamp '1900-01-01
+    03:45:00', 'https://gamewith.jp/dollsfrontline/article/show/115635', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115635_i.png']
+- !!python/object/new:dolls_service.Doll [FF F2000, AR, "\u661F2", !!timestamp '1900-01-01
+    02:45:00', 'https://gamewith.jp/dollsfrontline/article/show/115636', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115636_i.png']
+- !!python/object/new:dolls_service.Doll [9A-91, AR, "\u661F4", !!timestamp '1900-01-01
+    03:35:00', 'https://gamewith.jp/dollsfrontline/article/show/115644', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115644_i.png']
+- !!python/object/new:dolls_service.Doll ["63\u5F0F", AR, "\u661F2", !!timestamp '1900-01-01
+    02:45:00', 'https://gamewith.jp/dollsfrontline/article/show/115645', 91/400/400/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115645_i.png']
+- !!python/object/new:dolls_service.Doll ["97\u5F0F", AR, "\u661F5", !!timestamp '1900-01-01
+    03:50:00', 'https://gamewith.jp/dollsfrontline/article/show/116427', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/116427_i.png']
+- !!python/object/new:dolls_service.Doll [Gr G11, AR, "\u661F5", !!timestamp '1900-01-01
+    04:04:00', 'https://gamewith.jp/dollsfrontline/article/show/116936', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/116936_i.png']
+- !!python/object/new:dolls_service.Doll ["95\u5F0F", AR, "\u661F5", !!timestamp '1900-01-01
+    03:50:00', 'https://gamewith.jp/dollsfrontline/article/show/116425', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/116425_i.png']
+- !!python/object/new:dolls_service.Doll [Am RFB, AR, "\u661F5", !!timestamp '1900-01-01
+    03:58:00', 'https://gamewith.jp/dollsfrontline/article/show/119050', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/119050_i.png']
+- !!python/object/new:dolls_service.Doll ["64\u5F0F\u81EA", AR, "\u661F5", !!timestamp '1900-01-01
+    04:06:00', 'https://gamewith.jp/dollsfrontline/article/show/133026', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/133026_i.png']
+- !!python/object/new:dolls_service.Doll [K2, AR, "\u661F5", !!timestamp '1900-01-01
+    03:52:00', 'https://gamewith.jp/dollsfrontline/article/show/132597', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132597_i.png']
+- !!python/object/new:dolls_service.Doll [Zas M21, AR, "\u661F5", !!timestamp '1900-01-01
+    04:05:00', 'https://gamewith.jp/dollsfrontline/article/show/132599', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132599_i.png']
+- !!python/object/new:dolls_service.Doll [T91, AR, "\u661F5", !!timestamp '1900-01-01
+    03:48:00', 'https://gamewith.jp/dollsfrontline/article/show/132582', 91/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132582_i.png']
+- !!python/object/new:dolls_service.Doll [MDR, AR, "\u661F5", !!timestamp '1900-01-01
+    03:53:00', 'https://gamewith.jp/dollsfrontline/article/show/132619', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132619_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30EA\u30D9\u30ED\u30FC\u30EB", AR, "\u661F4",
+  !!timestamp '1900-01-01 03:40:00', 'https://gamewith.jp/dollsfrontline/article/show/132576',
+  97/404/404/97, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132576_i.png']
+- !!python/object/new:dolls_service.Doll [M16A1, AR, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115589', "\u3010\u901A\
+    \u5E384-6\u3011\u30AF\u30EA\u30A2\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115589_i.png']
+- !!python/object/new:dolls_service.Doll [M4A1, AR, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115590', "\u3010\u901A\
+    \u5E382-6\u3011\u30AF\u30EA\u30A2\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115590_i.png']
+- !!python/object/new:dolls_service.Doll ["M4 SOPMOD\u2161", AR, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115591', "\u3010\u901A\
+    \u5E383-3\u3011\u30AF\u30EA\u30A2\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115591_i.png']
+- !!python/object/new:dolls_service.Doll [ST AR-15, AR, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115592', "\u3010\u901A\
+    \u5E383-6\u3011\u30AF\u30EA\u30A2\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115592_i.png']
+- !!python/object/new:dolls_service.Doll [CZ-805, AR, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115637', "\u3010\u901A\
+    \u5E383-6\u3011\u3010\u7DCA\u60253-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115637_i.png']
+- !!python/object/new:dolls_service.Doll [6P62, AR, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115646', "2018\u5E74\
+    8\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C\u30A4\u30D9\u30F3\u30C8\u300C\u30AD\
+    \u30E5\u30FC\u30D6\u4F5C\u6226\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115646_i.png']
+- !!python/object/new:dolls_service.Doll [OTs-14, AR, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/117683', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u30AD\u30E5\u30FC\u30D6\u4F5C\u6226\u300D\u3067\u5165\u624B\
+    \u30A4\u30D9\u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/117683_i.png']
+- !!python/object/new:dolls_service.Doll [ARX-160, AR, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/118055', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u30AD\u30E5\u30FC\u30D6\u4F5C\u6226\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/118055_i.png']
+- !!python/object/new:dolls_service.Doll [ART556, AR, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/124716', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u30B8\u30E3\u30C3\u30AF\u30AA\u30FC\u30E9\u30F3\u30BF\u30F3\
+    \u4E89\u596A\u6226\u300D", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/124716_i.png']
+- !!python/object/new:dolls_service.Doll [AR70, AR, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132563', "2019\u5E74\
+    5\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132563_i.png']
+- !!python/object/new:dolls_service.Doll [Ak 5, AR, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132588', "\u3010\u901A\
+    \u5E389-6\u3011\u3010\u7DCA\u60259-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132588_i.png']
+- !!python/object/new:dolls_service.Doll ["M1\u30AC\u30FC\u30E9\u30F3\u30C9", RF,
+  "\u661F3", !!timestamp '1900-01-01 04:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115572',
+  430/430/430/230, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115572_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B9\u30D7\u30EA\u30F3\u30B0\u30D5\u30A3\
+    \u30FC\u30EB\u30C9", RF, "\u661F4", !!timestamp '1900-01-01 04:25:00', 'https://gamewith.jp/dollsfrontline/article/show/115574',
+  404/99/404/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115574_i.png']
+- !!python/object/new:dolls_service.Doll [M14, RF, "\u661F3", !!timestamp '1900-01-01
+    03:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115575', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115575_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30E2\u30B7\u30F3\u30FB\u30CA\u30AC\u30F3",
+  RF, "\u661F4", !!timestamp '1900-01-01 04:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115577',
+  404/99/404/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115577_i.png']
+- !!python/object/new:dolls_service.Doll [SVT-38, RF, "\u661F2", !!timestamp '1900-01-01
+    03:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115578', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115578_i.png']
+- !!python/object/new:dolls_service.Doll [SKS, RF, "\u661F2", !!timestamp '1900-01-01
+    03:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115579', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115579_i.png']
+- !!python/object/new:dolls_service.Doll [PTRD, RF, "\u661F4", !!timestamp '1900-01-01
+    04:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115580', 404/99/404/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115580_i.png']
+- !!python/object/new:dolls_service.Doll [SV-98, RF, "\u661F3", !!timestamp '1900-01-01
+    03:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115581', 400/30/400/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115581_i.png']
+- !!python/object/new:dolls_service.Doll [Kar98k, RF, "\u661F5", !!timestamp '1900-01-01
+    04:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115582', 400/91/400/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115582_i.png']
+- !!python/object/new:dolls_service.Doll [G43, RF, "\u661F2", !!timestamp '1900-01-01
+    03:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115583', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115583_i.png']
+- !!python/object/new:dolls_service.Doll [WA2000, RF, "\u661F5", !!timestamp '1900-01-01
+    04:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115584', 404/99/404/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115584_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30EA\u30FC\u30FB\u30A8\u30F3\u30D5\u30A3\
+    \u30FC\u30EB\u30C9", RF, "\u661F5", !!timestamp '1900-01-01 05:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115585',
+  400/91/400/30, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115585_i.png']
+- !!python/object/new:dolls_service.Doll [FF FN49, RF, "\u661F2", !!timestamp '1900-01-01
+    03:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115586', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115586_i.png']
+- !!python/object/new:dolls_service.Doll [It BM59, RF, "\u661F2", !!timestamp '1900-01-01
+    03:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115587', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115587_i.png']
+- !!python/object/new:dolls_service.Doll [NTW-20, RF, "\u661F5", !!timestamp '1900-01-01
+    04:45:00', 'https://gamewith.jp/dollsfrontline/article/show/115588', 404/99/404/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115588_i.png']
+- !!python/object/new:dolls_service.Doll ["\u6F22\u967D88\u5F0F", RF, "\u661F3", !!timestamp '1900-01-01
+    03:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115626', 430/430/430/230,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115626_i.png']
+- !!python/object/new:dolls_service.Doll [SVD, RF, "\u661F4", !!timestamp '1900-01-01
+    04:15:00', 'https://gamewith.jp/dollsfrontline/article/show/119051', 400/91/400/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/119051_i.png']
+- !!python/object/new:dolls_service.Doll [M99, RF, "\u661F5", !!timestamp '1900-01-01
+    04:55:00', 'https://gamewith.jp/dollsfrontline/article/show/119053', 400/91/400/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/119053_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30AB\u30EB\u30AB\u30CEM1891", RF, "\u661F5",
+  !!timestamp '1900-01-01 04:38:00', 'https://gamewith.jp/dollsfrontline/article/show/132600',
+  404/97/404/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132600_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30AB\u30EB\u30AB\u30CEM91/38", RF, "\u661F5",
+  !!timestamp '1900-01-01 04:42:00', 'https://gamewith.jp/dollsfrontline/article/show/132601',
+  404/97/404/233, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132601_i.png']
+- !!python/object/new:dolls_service.Doll [G28, RF, "\u661F4", !!timestamp '1900-01-01
+    04:20:00', 'https://gamewith.jp/dollsfrontline/article/show/132568', 4000/1000/4000/1000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132568_i.png']
+- !!python/object/new:dolls_service.Doll [T-5000, RF, "\u661F4", !!timestamp '1900-01-01
+    04:10:00', 'https://gamewith.jp/dollsfrontline/article/show/132585', 404/97/404/233,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132585_i.png']
+- !!python/object/new:dolls_service.Doll [IWS2000, RF, "\u661F5", !!timestamp '1900-01-01
+    04:52:00', 'https://gamewith.jp/dollsfrontline/article/show/132570', 400/100/400/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132570_i.png']
+- !!python/object/new:dolls_service.Doll [K31, RF, "\u661F4", !!timestamp '1900-01-01
+    04:15:00', 'https://gamewith.jp/dollsfrontline/article/show/133796', 400/100/400/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/133796_i.png']
+- !!python/object/new:dolls_service.Doll [M1A1, RF, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115573', "\u3010\u901A\
+    \u5E386-6\u3011\u3010\u7DCA\u60256-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115573_i.png']
+- !!python/object/new:dolls_service.Doll [M21, RF, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115576', "\u3010\u901A\
+    \u5E384-6\u3011\u3010\u7DCA\u60254-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115576_i.png']
+- !!python/object/new:dolls_service.Doll [PSG-1, RF, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/118563', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u30AD\u30E5\u30FC\u30D6\u4F5C\u6226\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/118563_i.png']
+- !!python/object/new:dolls_service.Doll [SuperSASS, RF, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/118152', "2018\u5E74\
+    9\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/118152_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B2\u30D1\u30FC\u30C9M1", RF, "\u661F3",
+  !!timestamp '1900-01-01 00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132605',
+  "2019\u5E741\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C\u30A4\u30D9\u30F3\u30C8\u300C\
+    \u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132605_i.png']
+- !!python/object/new:dolls_service.Doll [JS05, RF, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132595', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6B63\u6708\u306E\u30C6\u30FC\u30BC\u300D\u3067\u5165\u624B\
+    \u30A4\u30D9\u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132595_i.png']
+- !!python/object/new:dolls_service.Doll [OTs-44, RF, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132567', "4000/1000/4000/2000\u30A4\
+    \u30D9\u30F3\u30C8\u300C\u4F4E\u4F53\u6E29\u75C7\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132567_i.png']
+- !!python/object/new:dolls_service.Doll ["81\u5F0F\u30AB\u30FC\u30D3\u30F3", RF,
+  "\u661F3", !!timestamp '1900-01-01 00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132577',
+  "2019\u5E742\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C\u30A4\u30D9\u30F3\u30C8\u300C\
+    \u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132577_i.png']
+- !!python/object/new:dolls_service.Doll [PzB39, RF, "\u661F4", !!timestamp '1900-01-01
+    04:30:00', 'https://gamewith.jp/dollsfrontline/article/show/132581', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132581_i.png']
+- !!python/object/new:dolls_service.Doll [Gd DSR-50, RF, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132580', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132580_i.png']
+- !!python/object/new:dolls_service.Doll [TAC-50, RF, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132625', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6953\u8272\u30D0\u30EC\u30C3\u30C8\u300D\u3067\u5165\u624B",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132625_i.png']
+- !!python/object/new:dolls_service.Doll [SSG-69, RF, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132569', "2019\u5E74\
+    6\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132569_i.png']
+- !!python/object/new:dolls_service.Doll [M1918, MG, "\u661F4", !!timestamp '1900-01-01
+    06:25:00', 'https://gamewith.jp/dollsfrontline/article/show/115609', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115609_i.png']
+- !!python/object/new:dolls_service.Doll [M2HB, MG, "\u661F3", !!timestamp '1900-01-01
+    06:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115610', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115610_i.png']
+- !!python/object/new:dolls_service.Doll [M60, MG, "\u661F4", !!timestamp '1900-01-01
+    06:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115611', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115611_i.png']
+- !!python/object/new:dolls_service.Doll [M1919A4, MG, "\u661F3", !!timestamp '1900-01-01
+    05:40:00', 'https://gamewith.jp/dollsfrontline/article/show/115613', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115613_i.png']
+- !!python/object/new:dolls_service.Doll [LWMMG, MG, "\u661F2", !!timestamp '1900-01-01
+    05:10:00', 'https://gamewith.jp/dollsfrontline/article/show/115614', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115614_i.png']
+- !!python/object/new:dolls_service.Doll [DP28, MG, "\u661F2", !!timestamp '1900-01-01
+    05:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115615', 630/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115615_i.png']
+- !!python/object/new:dolls_service.Doll [PK, MG, "\u661F4", !!timestamp '1900-01-01
+    06:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115616', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115616_i.png']
+- !!python/object/new:dolls_service.Doll [MG42, MG, "\u661F3", !!timestamp '1900-01-01
+    05:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115617', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115617_i.png']
+- !!python/object/new:dolls_service.Doll [MG34, MG, "\u661F2", !!timestamp '1900-01-01
+    05:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115618', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115618_i.png']
+- !!python/object/new:dolls_service.Doll [MG3, MG, "\u661F4", !!timestamp '1900-01-01
+    06:30:00', 'https://gamewith.jp/dollsfrontline/article/show/115619', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115619_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30D6\u30EC\u30F3", MG, "\u661F3", !!timestamp '1900-01-01
+    05:20:00', 'https://gamewith.jp/dollsfrontline/article/show/115620', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115620_i.png']
+- !!python/object/new:dolls_service.Doll [Gr MG5, MG, "\u661F5", !!timestamp '1900-01-01
+    06:45:00', 'https://gamewith.jp/dollsfrontline/article/show/115638', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115638_i.png']
+- !!python/object/new:dolls_service.Doll [FG42, MG, "\u661F2", !!timestamp '1900-01-01
+    04:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115639', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115639_i.png']
+- !!python/object/new:dolls_service.Doll [AAT-52, MG, "\u661F2", !!timestamp '1900-01-01
+    04:50:00', 'https://gamewith.jp/dollsfrontline/article/show/115641', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115641_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30CD\u30B2\u30F4", MG, "\u661F5", !!timestamp '1900-01-01
+    06:35:00', 'https://gamewith.jp/dollsfrontline/article/show/115642', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115642_i.png']
+- !!python/object/new:dolls_service.Doll [Gr MG4, MG, "\u661F5", !!timestamp '1900-01-01
+    06:40:00', 'https://gamewith.jp/dollsfrontline/article/show/116428', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/116428_i.png']
+- !!python/object/new:dolls_service.Doll [AEK-999, MG, "\u661F4", !!timestamp '1900-01-01
+    06:20:00', 'https://gamewith.jp/dollsfrontline/article/show/119054', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/119054_i.png']
+- !!python/object/new:dolls_service.Doll [PKP, MG, "\u661F5", !!timestamp '1900-01-01
+    06:50:00', 'https://gamewith.jp/dollsfrontline/article/show/132353', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132353_i.png']
+- !!python/object/new:dolls_service.Doll [Ameli, MG, "\u661F4", !!timestamp '1900-01-01
+    06:25:00', 'https://gamewith.jp/dollsfrontline/article/show/132586', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132586_i.png']
+- !!python/object/new:dolls_service.Doll ["80\u5F0F", MG, "\u661F4", !!timestamp '1900-01-01
+    06:15:00', 'https://gamewith.jp/dollsfrontline/article/show/132602', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132602_i.png']
+- !!python/object/new:dolls_service.Doll [Mk48, MG, "\u661F4", !!timestamp '1900-01-01
+    06:20:00', 'https://gamewith.jp/dollsfrontline/article/show/132558', 730/630/130/430,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132558_i.png']
+- !!python/object/new:dolls_service.Doll [FF M249SAW, MG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/115612', "\u3010\u901A\
+    \u5E385-6\u3011\u3010\u7DCA\u60255-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\u5229\
+    \u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/115612_i.png']
+- !!python/object/new:dolls_service.Doll ["62\u5F0F", MG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132158', "2018\u5E74\
+    12\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132158_i.png']
+- !!python/object/new:dolls_service.Doll [M37, SG, "\u661F4", !!timestamp '1900-01-01
+    07:45:00', 'https://gamewith.jp/dollsfrontline/article/show/123502', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123502_i.png']
+- !!python/object/new:dolls_service.Doll [M500, SG, "\u661F3", !!timestamp '1900-01-01
+    07:20:00', 'https://gamewith.jp/dollsfrontline/article/show/123503', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123503_i.png']
+- !!python/object/new:dolls_service.Doll [M590, SG, "\u661F4", !!timestamp '1900-01-01
+    07:40:00', 'https://gamewith.jp/dollsfrontline/article/show/123504', 6011/2011/6011/4011,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123504_i.png']
+- !!python/object/new:dolls_service.Doll [Am KSG, SG, "\u661F5", !!timestamp '1900-01-01
+    08:00:00', 'https://gamewith.jp/dollsfrontline/article/show/123506', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123506_i.png']
+- !!python/object/new:dolls_service.Doll [KS-23, SG, "\u661F3", !!timestamp '1900-01-01
+    07:25:00', 'https://gamewith.jp/dollsfrontline/article/show/123507', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123507_i.png']
+- !!python/object/new:dolls_service.Doll [RMB-93, SG, "\u661F3", !!timestamp '1900-01-01
+    07:30:00', 'https://gamewith.jp/dollsfrontline/article/show/123508', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123508_i.png']
+- !!python/object/new:dolls_service.Doll [M1014, SG, "\u661F4", !!timestamp '1900-01-01
+    07:14:00', 'https://gamewith.jp/dollsfrontline/article/show/123524', 6011/2011/6011/4011,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123524_i.png']
+- !!python/object/new:dolls_service.Doll [AA-12, SG, "\u661F5", !!timestamp '1900-01-01
+    08:12:00', 'https://gamewith.jp/dollsfrontline/article/show/123513', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123513_i.png']
+- !!python/object/new:dolls_service.Doll [SPAS-12, SG, "\u661F4", !!timestamp '1900-01-01
+    07:40:00', 'https://gamewith.jp/dollsfrontline/article/show/123512', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123512_i.png']
+- !!python/object/new:dolls_service.Doll [Super-Shorty, SG, "\u661F4", !!timestamp '1900-01-01
+    07:50:00', 'https://gamewith.jp/dollsfrontline/article/show/123505', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123505_i.png']
+- !!python/object/new:dolls_service.Doll [M1897, SG, "\u661F3", !!timestamp '1900-01-01
+    07:30:00', 'https://gamewith.jp/dollsfrontline/article/show/123501', 6000/2000/6000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123501_i.png']
+- !!python/object/new:dolls_service.Doll ["97\u5F0F\u6563", SG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/123511', "\u3010\u5B9F\
+    \u7E3E\u9054\u6210\u6642\u306B\u5165\u624B\u3011", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123511_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30A8\u30EB\u30D5\u30A7\u30EB\u30C8",
+  SG, "\u661F5", !!timestamp '1900-01-01 00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/127668',
+  "\u30A4\u30D9\u30F3\u30C8\u300C\u30A6\u30B5\u30AE\u72E9\u308A\u4F5C\u6226\u300D",
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/127668_i.png']
+- !!python/object/new:dolls_service.Doll [M1887, SG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/123500', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u4F4E\u4F53\u6E29\u75C7\u300D\u3067\u5165\u624B\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6DF1\u5C64\u6620\u5199\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123500_i.png']
+- !!python/object/new:dolls_service.Doll [AUG, AR, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132554', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6697\u5F71\u306E\u82B1\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132554_i.png']
+- !!python/object/new:dolls_service.Doll [PP-19, SMG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132564', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u671F\u9593\u9650\u5B9A\u30C9\u30ED\u30C3\u30D7\u300D\u3067\
+    \u5165\u624B", 'https://img.gamewith.jp/img/305efdc94b04726bf48f0a73893f9bbe.jpeg']
+- !!python/object/new:dolls_service.Doll [JS9, SMG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132635', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u6669\u590F\u7279\u8A13\u4F5C\u6226\u8A08\u753B\u300D\u3067\
+    \u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132635_i.png']
+- !!python/object/new:dolls_service.Doll [USAS-12, SG, "\u661F4", !!timestamp '1900-01-01
+    07:55:00', 'https://gamewith.jp/dollsfrontline/article/show/123526', 8000/1000/8000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123526_i.png']
+- !!python/object/new:dolls_service.Doll [S.A.T.8, SG, "\u661F5", !!timestamp '1900-01-01
+    08:10:00', 'https://gamewith.jp/dollsfrontline/article/show/123525', 8000/1000/8000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123525_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B8\u30EB", HG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/165187', "\u30A4\u30D9\
+    \u30F3\u30C8\u300CVA-11 Hall-A\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/165187_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30C7\u30A4\u30CA", SG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/165194', "\u30A4\u30D9\
+    \u30F3\u30C8\u300CVA-11 Hall-A\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/165194_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B9\u30C6\u30E9", RF, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/165195', "\u30A4\u30D9\
+    \u30F3\u30C8\u300CVA-11 Hall-A\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/165195_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30BB\u30A4", HG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/165196', "\u30A4\u30D9\
+    \u30F3\u30C8\u300CVA-11 Hall-A\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/165196_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30A2\u30EB\u30DE", MG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/165197', "\u30A4\u30D9\
+    \u30F3\u30C8\u300CVA-11 Hall-A\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/165197_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30C9\u30ED\u30B7\u30FC", SMG, "\u661F5",
+  !!timestamp '1900-01-01 00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/165198',
+  "\u30A4\u30D9\u30F3\u30C8\u300CVA-11 Hall-A\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/165198_i.png']
+- !!python/object/new:dolls_service.Doll [XM8, AR, "\u661F4", !!timestamp '1900-01-01
+    03:25:00', 'https://gamewith.jp/dollsfrontline/article/show/132620', 97/412/412/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132620_i.png']
+- !!python/object/new:dolls_service.Doll [SPR A3G, RF, "\u661F4", !!timestamp '1900-01-01
+    04:15:00', 'https://gamewith.jp/dollsfrontline/article/show/132636', 400/100/400/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132636_i.png']
+- !!python/object/new:dolls_service.Doll [M200, RF, "\u661F5", !!timestamp '1900-01-01
+    04:32:00', 'https://gamewith.jp/dollsfrontline/article/show/171791', 400/100/400/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/171791_i.png']
+- !!python/object/new:dolls_service.Doll ["88\u5F0F", MG, "\u661F5", !!timestamp '1900-01-01
+    06:28:00', 'https://gamewith.jp/dollsfrontline/article/show/132639', 800/800/100/400,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132639_i.png']
+- !!python/object/new:dolls_service.Doll ["Px4\u30B9\u30C8\u30FC\u30E0", HG, "\u661F5",
+  !!timestamp '1900-01-01 01:04:00', 'https://gamewith.jp/dollsfrontline/article/show/132634',
+  130/130/130/30, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132634_i.png']
+- !!python/object/new:dolls_service.Doll [SM-1, RF, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132621', "2019\u5E74\
+    11\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132621_i.png']
+- !!python/object/new:dolls_service.Doll [SRS, RF, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132616', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u7279\u8A13\uFF01\u30A8\u30EA\u30FC\u30C8\u80B2\u6210\u30D7\
+    \u30ED\u30B0\u30E9\u30E0\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132616_i.png']
+- !!python/object/new:dolls_service.Doll [RPD, MG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132555', "2019\u5E74\
+    12\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132555_i.png']
+- !!python/object/new:dolls_service.Doll [FP-6, SG, "\u661F5", !!timestamp '1900-01-01
+    08:06:00', 'https://gamewith.jp/dollsfrontline/article/show/123514', 8000/1000/8000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123514_i.png']
+- !!python/object/new:dolls_service.Doll [Saiga-12, SG, "\u661F5", !!timestamp '1900-01-01
+    08:05:00', 'https://gamewith.jp/dollsfrontline/article/show/123510', 8000/1000/8000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123510_i.png']
+- !!python/object/new:dolls_service.Doll [NS2000, SG, "\u661F3", !!timestamp '1900-01-01
+    07:15:00', 'https://gamewith.jp/dollsfrontline/article/show/123527', 8000/1000/8000/4000,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/123527_i.png']
+- !!python/object/new:dolls_service.Doll [XM3, RF, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132603', "\u3010\u901A\
+    \u5E3810-6\u3011\u3010\u7DCA\u602510-4\u3011\u30AF\u30EA\u30A2BOSS\u6226S\u52DD\
+    \u5229\u3001\u307E\u305F\u306F\u6226\u5F79S\u8A55\u4FA1\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132603_i.png']
+- !!python/object/new:dolls_service.Doll [P226, HG, "\u661F3", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132587', "2020\u5E74\
+    1\u6708\u30ED\u30B0\u30A4\u30F3\u5831\u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132587_i.png']
+- !!python/object/new:dolls_service.Doll [R93, RF, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/181888', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u65B0\u5E74\u306E\u521D\u5922\u3092\u307F\u308B\u304B\u300D\
+    \u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/181888_i.png']
+- !!python/object/new:dolls_service.Doll ["89\u5F0F", AR, "\u661F5", !!timestamp '1900-01-01
+    04:08:00', 'https://gamewith.jp/dollsfrontline/article/show/181896', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/181896_i.png']
+- !!python/object/new:dolls_service.Doll ["\u56DB\u5F0F", RF, "\u661F4", !!timestamp '1900-01-01
+    04:04:00', 'https://gamewith.jp/dollsfrontline/article/show/182006', 400/100/400/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/182006_i.png']
+- !!python/object/new:dolls_service.Doll [IDW(MOD), SMG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/182486', "IDW\u3092\
+    \u30E1\u30F3\u30BF\u30EB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3067\u5165\
+    \u624B\b", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/182486_i.png']
+- !!python/object/new:dolls_service.Doll ["64\u5F0F(MOD)", SMG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/182628', "64\u5F0F\
+    \u3092\u30E1\u30F3\u30BF\u30EB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3067\
+    \u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/182628_i.png']
+- !!python/object/new:dolls_service.Doll [M1911(MOD), HG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/182587', "M1911\u3092\
+    \u30E1\u30F3\u30BF\u30EB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3067\u5165\
+    \u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/182587_i.png']
+- !!python/object/new:dolls_service.Doll [FF FN49(MOD), RF, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/182532', "FF FN49\u3092\
+    \u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/182532_i.png']
+- !!python/object/new:dolls_service.Doll [AN-94, AR, "\u661F5", !!timestamp '1900-01-01
+    04:09:00', 'https://gamewith.jp/dollsfrontline/article/show/132610', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132610_i.png']
+- !!python/object/new:dolls_service.Doll [AK-12, AR, "\u661F5", !!timestamp '1900-01-01
+    04:12:00', 'https://gamewith.jp/dollsfrontline/article/show/132611', 97/404/404/97,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132611_i.png']
+- !!python/object/new:dolls_service.Doll [CZ2000, AR, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132612', "\u300C\u7279\
+    \u7570\u70B9\u300D\u306E\u30B9\u30C6\u30FC\u30B8\u3010\u518D\u70B9\u706B\u2163\
+    \u3011\u30AF\u30EA\u30A2\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132612_i.png']
+- !!python/object/new:dolls_service.Doll [M4A1(MOD), AR, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/182716', "M4A1\u3092\
+    \u30E1\u30F3\u30BF\u30EB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3067\u5165\
+    \u624B\b", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/182716_i.png']
+- !!python/object/new:dolls_service.Doll [ST AR-15(MOD), AR, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/182723', "ST AR-15\u3092\
+    \u30E1\u30F3\u30BF\u30EB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3067\u5165\
+    \u624B\b", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/182723_i.png']
+- !!python/object/new:dolls_service.Doll [HMG21, MG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132613', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u7279\u7570\u70B9\u300D\u306E\u30B9\u30C6\u30FC\u30B8\u3010\
+    \u30AD\u30E3\u30B9\u30EA\u30F3\u30B0\u2163\u3011\u30AF\u30EA\u30A2\u3067\u5165\
+    \u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132613_i.png']
+- !!python/object/new:dolls_service.Doll [Honey Badger, SMG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132608', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u7279\u7570\u70B9\u300D\u306E\u30B9\u30C6\u30FC\u30B8\u3010\
+    \u751F\u5B58\u8005\u3011\u30AF\u30EA\u30A2\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132608_i.png']
+- !!python/object/new:dolls_service.Doll [Ballista, RF, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132609', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u7279\u7570\u70B9\u300D\u306E\u7269\u8CC7\u7BB1777\u500B\u5831\
+    \u916C", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132609_i.png']
+- !!python/object/new:dolls_service.Doll [Thunder, HG, "\u661F4", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132607', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u7279\u7570\u70B9\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132607_i.png']
+- !!python/object/new:dolls_service.Doll [Gr MP7, SMG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132551', "\u30A4\u30D9\
+    \u30F3\u30C8\u300C\u7279\u7570\u70B9\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132551_i.png']
+- !!python/object/new:dolls_service.Doll [PA-15, HG, "\u661F5", !!timestamp '1900-01-01
+    01:15:00', 'https://gamewith.jp/dollsfrontline/article/show/187984', 130/130/130/30,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/187984_i.png']
+- !!python/object/new:dolls_service.Doll [P90, SMG, "\u661F5", !!timestamp '1900-01-01
+    02:29:00', 'https://gamewith.jp/dollsfrontline/article/show/133795', 400/400/100/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/133795_i.png']
+- !!python/object/new:dolls_service.Doll [EM-2, AR, "\u661F4", !!timestamp '1900-01-01
+    03:35:00', 'https://gamewith.jp/dollsfrontline/article/show/187983', 100/400/400/200,
+  'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/187983_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30B7\u30E7\u30FC\u30B7\u30E3", MG, "\u661F4",
+  !!timestamp '1900-01-01 06:25:00', 'https://gamewith.jp/dollsfrontline/article/show/187985',
+  800/800/100/400, 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/187985_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30D5\u30A7\u30A4\u30EB", HG, "\u661F5",
+  !!timestamp '1900-01-01 00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132648',
+  "DJMAX\u30B3\u30E9\u30DC\u300CGlory Day\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132648_i.png']
+- !!python/object/new:dolls_service.Doll ["\u30AF\u30EC\u30A2", HG, "\u661F5", !!timestamp '1900-01-01
+    00:00:00', 'https://gamewith.jp/dollsfrontline/article/show/132647', "DJMAX\u30B3\
+    \u30E9\u30DC\u300CGlory Day\u300D\u3067\u5165\u624B", 'https://img.gamewith.jp/article_tools/dollsfrontline/gacha/132647_i.png']
