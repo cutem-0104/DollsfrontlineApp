@@ -9,11 +9,20 @@ def attachmentPayload = [[
 ]]
 
 pipeline {
-    agent {
-        docker { image 'cutem/python-build' }
-    }
+    
     stages {
+        stage('SetUp') {
+            agent {
+                label 'master'
+            }
+            steps {
+                sh 'docker build -t cutem/python-build .'
+            }
+        }
         stage('Test') {
+            agent {
+                docker { image 'cutem/python-build' }
+            }
             steps {
                 sh 'python3 discover.py'
             }
