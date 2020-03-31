@@ -1,5 +1,5 @@
 import ui
-from SearchView import SearchView
+from src.SearchView import SearchView
 
 a = SearchView()
 nv = ui.NavigationView(a.v)

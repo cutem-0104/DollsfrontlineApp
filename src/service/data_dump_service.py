@@ -1,6 +1,6 @@
 import yaml
 import json
-from service.dolls_service import DollsScrapingRepository
+from src.service.dolls_service import DollsScrapingRepository
 from datetime import datetime
 
 class DollsDump():
@@ -9,7 +9,7 @@ class DollsDump():
 		self.dumper = dumper
 
 	def dump_file(self):
-		self.dumper.write('../../data/dolls_out', self.repository.result)
+		self.dumper.write('data/dolls_out', self.repository.result)
 
 
 class YamlDumper():

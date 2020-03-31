@@ -61,7 +61,7 @@ class DollsYamlRepository():
 		import yaml
 		from collections import OrderedDict
 		
-		with open('../src/dolls_out.yaml') as file:
+		with open('data/dolls_out.yaml') as file:
 			return yaml.load(file)
 
 
@@ -92,7 +92,7 @@ class DollsSearchService():
 		return equal_time and equal_star and equal_type
 
 if __name__ == '__main__':
-	ds_service = DollsSearchService(DollsScrapingRepository())
+	ds_service = DollsSearchService(DollsYamlRepository())
 	#ds_service = DollsSearchService(DollsYamlRepository())
 	for d in ds_service.repository.result:
 		print(d)
