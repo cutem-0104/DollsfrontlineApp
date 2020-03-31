@@ -61,7 +61,7 @@ class DollsYamlRepository():
 		import yaml
 		from collections import OrderedDict
 		
-		with open('dolls_out.yaml') as file:
+		with open('../src/dolls_out.yaml') as file:
 			return yaml.load(file)
 
 
