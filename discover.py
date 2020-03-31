@@ -1,4 +1,4 @@
-import unittest
+import unittest, sys
 
 def suite():
 	test_suite = unittest.TestSuite()
@@ -9,4 +9,7 @@ def suite():
 
 if __name__ == "__main__":
 	mySuite = suite()
-	unittest.TextTestRunner().run(mySuite)
+	try:
+		unittest.TextTestRunner().run(mySuite)
+	except ImportError as e:
+		sys.exit(1)
