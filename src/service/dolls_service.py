@@ -5,7 +5,7 @@ import datetime
 from collections import namedtuple
 
 Doll = namedtuple('Doll', (
-    'name', 'type','star', 'time', 'link_url', 'how_to_get', 'image_url'))
+    'name', 'type', 'star', 'time', 'link_url', 'how_to_get', 'image_url'))
 
 
 def get_time(strtime):
