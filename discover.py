@@ -9,7 +9,5 @@ def suite():
 
 if __name__ == "__main__":
 	mySuite = suite()
-	try:
-		unittest.TextTestRunner().run(mySuite)
-	except ImportError as e:
-		sys.exit(1)
+	unittest.TextTestRunner().run(mySuite)
+	

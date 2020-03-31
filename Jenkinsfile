@@ -24,7 +24,11 @@ pipeline {
                 docker { image 'cutem/python-build' }
             }
             steps {
-                sh 'python3 discover.py'
+                try {
+                    sh 'python3 discover.py'
+                } catch (err) {
+                    echo "Failed: ${err}"
+                }
             }
         }
     }
