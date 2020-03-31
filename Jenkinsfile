@@ -2,10 +2,9 @@
 import groovy.json.JsonBuilder
 
 def attachmentPayload = [[
-    fallback: "execution #${env.BUILD_NUMBER}",
-    color: "#2eb886",
+    fallback: "${env.JOB_NAME} #${env.BUILD_NUMBER}",
     pretext: "${env.JOB_NAME}",
-    text: "${env.JOB_NAME} TEST DONE #${env.BUILD_NUMBER}",
+    text: "${env.JOB_NAME} TEST DONE #${env.BUILD_NUMBER} ${env.BUILD_URL}",
 ]]
 
 pipeline {
@@ -38,13 +37,11 @@ pipeline {
     }
     post {
         success {
-            echo 'TEST DONE'
             script {// ここだけscripted pipeline のsyntaxを適用する
                 slackSend(channel: '#sugaya_github_bot', color: "#2eb886", attachments: new JsonBuilder(attachmentPayload).toString())
             }
         }
         failure {
-            echo 'TEST FAILED'
             script {// ここだけscripted pipeline のsyntaxを適用する
                 slackSend(channel: '#sugaya_github_bot', color: "#FF0000", attachments: new JsonBuilder(attachmentPayload).toString())
             }
