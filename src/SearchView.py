@@ -1,6 +1,6 @@
 import ui
 import console
-from ResultView import ResultView
+from src.ResultView import ResultView
 
 class SearchView(object):
 	def __init__(self):

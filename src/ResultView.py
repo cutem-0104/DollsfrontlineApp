@@ -1,6 +1,6 @@
 import ui
 import console
-from dolls_service import DollsYamlRepository, DollsSearchService
+from src.service.dolls_service import DollsSearchService, DollsYamlRepository
 import webbrowser
 import datetime
 
