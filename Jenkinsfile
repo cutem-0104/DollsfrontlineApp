@@ -27,6 +27,7 @@ pipeline {
                 script {
                     try {
                         sh 'python3 discover.py'
+                        currentBuild.result = 'FAILURE'
                     } catch (err) {
                         echo "Failed: ${err}"
                         currentBuild.result = 'FAILURE'
