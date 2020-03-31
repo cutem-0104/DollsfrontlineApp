@@ -31,6 +31,7 @@ pipeline {
             steps {
                 script {
                     try {
+                        sh 'flake8 .'
                         sh 'python3 -m unittest discover test "test_*.py"'
                     } catch (err) {
                         echo "Failed: ${err}"
