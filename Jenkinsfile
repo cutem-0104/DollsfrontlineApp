@@ -3,11 +3,13 @@ import groovy.json.JsonBuilder
 
 def successPayload = [[
     fallback: "${env.JOB_NAME} #${env.BUILD_NUMBER}",
+    color: "good",
     text: "TEST SUCCESS #${env.BUILD_NUMBER} ${env.BUILD_URL}",
 ]]
 
 def failedPayload = [[
     fallback: "${env.JOB_NAME} #${env.BUILD_NUMBER}",
+    color: "danger",
     text: "TEST FAILED #${env.BUILD_NUMBER} ${env.BUILD_URL}",
 ]]
 
@@ -29,6 +31,7 @@ pipeline {
             steps {
                 script {
                     try {
+                        sh 'flake8 .'
                         sh 'python3 -m unittest discover test "test_*.py"'
                     } catch (err) {
                         echo "Failed: ${err}"
@@ -41,12 +44,12 @@ pipeline {
     post {
         success {
             script {// ここだけscripted pipeline のsyntaxを適用する
-                slackSend(channel: '#sugaya_github_bot', color: "#2eb886", attachments: new JsonBuilder(successPayload).toString())
+                slackSend(channel: '#sugaya_github_bot', attachments: new JsonBuilder(successPayload).toString())
             }
         }
         failure {
             script {// ここだけscripted pipeline のsyntaxを適用する
-                slackSend(channel: '#sugaya_github_bot', color: "#FF0000", attachments: new JsonBuilder(failedPayload).toString())
+                slackSend(channel: '#sugaya_github_bot', attachments: new JsonBuilder(failedPayload).toString())
             }
         }
     }
