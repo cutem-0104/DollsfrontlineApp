@@ -10,3 +10,4 @@ def suite():
 if __name__ == "__main__":
 	mySuite = suite()
 	unittest.TextTestRunner().run(mySuite)
+	

@@ -1,11 +1,14 @@
 #!groovy
 import groovy.json.JsonBuilder
 
-def attachmentPayload = [[
-    fallback: "execution #${env.BUILD_NUMBER}",
-    color: "#2eb886",
-    pretext: "${env.JOB_NAME}",
-    text: "TEST DONE #${env.BUILD_NUMBER}",
+def successPayload = [[
+    fallback: "${env.JOB_NAME} #${env.BUILD_NUMBER}",
+    text: "TEST SUCCESS #${env.BUILD_NUMBER} ${env.BUILD_URL}",
+]]
+
+def failedPayload = [[
+    fallback: "${env.JOB_NAME} #${env.BUILD_NUMBER}",
+    text: "TEST FAILED #${env.BUILD_NUMBER} ${env.BUILD_URL}",
 ]]
 
 pipeline {
@@ -24,15 +27,26 @@ pipeline {
                 docker { image 'cutem/python-build' }
             }
             steps {
-                sh 'python3 discover.py'
+                script {
+                    try {
+                        sh 'python3 discover.py'
+                    } catch (err) {
+                        echo "Failed: ${err}"
+                        currentBuild.result = 'FAILURE'
+                    }
+                }
             }
         }
     }
     post {
-        always {
-            echo 'TEST DONE'
+        success {
             script {// ここだけscripted pipeline のsyntaxを適用する
-                slackSend(channel: '#sugaya_github_bot', color: "#2eb886", attachments: new JsonBuilder(attachmentPayload).toString())
+                slackSend(channel: '#sugaya_github_bot', color: "#2eb886", attachments: new JsonBuilder(successPayload).toString())
+            }
+        }
+        failure {
+            script {// ここだけscripted pipeline のsyntaxを適用する
+                slackSend(channel: '#sugaya_github_bot', color: "#FF0000", attachments: new JsonBuilder(failedPayload).toString())
             }
         }
     }
