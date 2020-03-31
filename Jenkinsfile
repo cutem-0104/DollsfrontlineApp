@@ -5,7 +5,7 @@ def attachmentPayload = [[
     fallback: "execution #${env.BUILD_NUMBER}",
     color: "#2eb886",
     pretext: "${env.JOB_NAME}",
-    text: "TEST DONE #${env.BUILD_NUMBER}",
+    text: "${env.JOB_NAME} TEST DONE #${env.BUILD_NUMBER}",
 ]]
 
 pipeline {
@@ -37,10 +37,16 @@ pipeline {
         }
     }
     post {
-        always {
+        success {
             echo 'TEST DONE'
             script {// ここだけscripted pipeline のsyntaxを適用する
                 slackSend(channel: '#sugaya_github_bot', color: "#2eb886", attachments: new JsonBuilder(attachmentPayload).toString())
+            }
+        }
+        failure {
+            echo 'TEST FAILED'
+            script {// ここだけscripted pipeline のsyntaxを適用する
+                slackSend(channel: '#sugaya_github_bot', color: "#FF0000", attachments: new JsonBuilder(attachmentPayload).toString())
             }
         }
     }
