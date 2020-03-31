@@ -27,7 +27,6 @@ class SearchView(object):
         gun_type = sender.superview['gun_type']
         index5 = gun_type.selected_index
 
-        d = ResultView(hour.segments[index], minute, type.segments[index3], \
-            star.segments[index4], gun_type.segments[index5])
+        d = ResultView(hour.segments[index], minute, type.segments[index3],\
+                    star.segments[index4], gun_type.segments[index5])
         sender.superview.navigation_view.push_view(d.v)
-

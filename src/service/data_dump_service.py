@@ -31,4 +31,3 @@ class JsonDumper():
 
 dd = DollsDump(DollsScrapingRepository(), JsonDumper())
 dd.dump_file()
-

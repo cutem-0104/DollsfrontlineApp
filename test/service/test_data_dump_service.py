@@ -1,4 +1,4 @@
-import unittest
+import os, unittest
 from src.service.data_dump_service import DollsDump, YamlDumper, JsonDumper
 from src.service.dolls_service import DollsScrapingRepository
 
@@ -20,4 +20,3 @@ class TestDataDumpService(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-

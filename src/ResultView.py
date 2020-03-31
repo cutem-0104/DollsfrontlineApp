@@ -84,4 +84,3 @@ class ResultView(object):
     def tap_new_button(self, sender):
         browse = webbrowser.get('safari')
         browse.open(self.dolls[int(sender.name)].link_url)
-

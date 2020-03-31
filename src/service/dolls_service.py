@@ -26,13 +26,13 @@ class DollsScrapingRepository():
     def create_doll(self, element):
         doll_content = element.find_all('td')
 
-        return Doll(doll_content[0].get_text(), \
-          self.get_gun_type(doll_content[1].get_text()), \
-          doll_content[2].get_text(), \
-          get_time(doll_content[15].get_text()), \
-          doll_content[0].a.attrs['href'], \
-          doll_content[16].get_text(), \
-          doll_content[0].img.attrs['data-original'])
+        return Doll(doll_content[0].get_text(),\
+                    self.get_gun_type(doll_content[1].get_text()),\
+                    doll_content[2].get_text(),\
+                    get_time(doll_content[15].get_text()),\
+                    doll_content[0].a.attrs['href'],\
+                    doll_content[16].get_text(),\
+                    doll_content[0].img.attrs['data-original'])
 
     def get_list(self):
         doll_list = []
@@ -61,7 +61,6 @@ class DollsYamlRepository():
 
     def load(self):
         import yaml
-        from collections import OrderedDict
 
         with open('data/dolls_out.yaml') as file:
             return yaml.load(file)
@@ -99,4 +98,3 @@ if __name__ == '__main__':
     # ds_service = DollsSearchService(DollsYamlRepository())
     for d in ds_service.repository.result:
         print(d)
-
