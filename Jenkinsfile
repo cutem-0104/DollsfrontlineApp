@@ -9,7 +9,7 @@ def attachmentPayload = [[
 ]]
 
 pipeline {
-    
+    agent none
     stages {
         stage('SetUp') {
             agent {
