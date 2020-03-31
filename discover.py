@@ -7,7 +7,8 @@ def suite():
 		for ts in all_test_suite:
 			test_suite.addTest(ts)
 		return test_suite
-	except unitetest.SkipTest as e:
+	except Exception as e:
+		print(e)
 		sys.exit(1)
 
 if __name__ == "__main__":
