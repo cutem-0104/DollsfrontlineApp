@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import datetime
 from collections import namedtuple
 
-Doll = namedtuple('Doll', ('name', 'type', \
-  'star', 'time', 'link_url', 'how_to_get', 'image_url'))
+Doll = namedtuple('Doll', (
+    'name', 'type','star', 'time', 'link_url', 'how_to_get', 'image_url'))
 
 
 def get_time(strtime):
@@ -26,12 +26,12 @@ class DollsScrapingRepository():
     def create_doll(self, element):
         doll_content = element.find_all('td')
 
-        return Doll(doll_content[0].get_text(),\
-                    self.get_gun_type(doll_content[1].get_text()),\
-                    doll_content[2].get_text(),\
-                    get_time(doll_content[15].get_text()),\
-                    doll_content[0].a.attrs['href'],\
-                    doll_content[16].get_text(),\
+        return Doll(doll_content[0].get_text(),
+                    self.get_gun_type(doll_content[1].get_text()),
+                    doll_content[2].get_text(),
+                    get_time(doll_content[15].get_text()),
+                    doll_content[0].a.attrs['href'],
+                    doll_content[16].get_text(),
                     doll_content[0].img.attrs['data-original'])
 
     def get_list(self):

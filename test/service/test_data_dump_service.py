@@ -1,4 +1,5 @@
-import os, unittest
+import os
+import unittest
 from src.service.data_dump_service import DollsDump, YamlDumper, JsonDumper
 from src.service.dolls_service import DollsScrapingRepository
 
