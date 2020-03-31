@@ -11,7 +11,7 @@ class TestDollsService(unittest.TestCase):
 	def test_scraping_result(self):
 		for doll in self.scraping.repository.result:
 			# 'name', 'type', 'star', 'time', 'link_url', 'how_to_get', 'image_url'
-			self.assertIsNone(doll.name)
+			self.assertIsNotNone(doll.name)
 			self.assertIsNotNone(doll.type)
 			self.assertIsNotNone(doll.star)
 			self.assertIsNotNone(doll.time)
