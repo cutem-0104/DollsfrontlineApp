@@ -29,8 +29,7 @@ pipeline {
             steps {
                 script {
                     try {
-                        sh 'python3 discover.py'
-                        currentBuild.result = 'FAILURE'
+                        sh 'python3 discover.py || sss'
                     } catch (err) {
                         echo "Failed: ${err}"
                         currentBuild.result = 'FAILURE'
