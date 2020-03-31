@@ -3,13 +3,13 @@ import groovy.json.JsonBuilder
 
 def successPayload = [[
     fallback: "${env.JOB_NAME} #${env.BUILD_NUMBER}",
-    color: "good"
+    color: "good",
     text: "TEST SUCCESS #${env.BUILD_NUMBER} ${env.BUILD_URL}",
 ]]
 
 def failedPayload = [[
     fallback: "${env.JOB_NAME} #${env.BUILD_NUMBER}",
-    color: "danger"
+    color: "danger",
     text: "TEST FAILED #${env.BUILD_NUMBER} ${env.BUILD_URL}",
 ]]
 
