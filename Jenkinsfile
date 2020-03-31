@@ -16,7 +16,7 @@ pipeline {
                 label 'master'
             }
             steps {
-                sh 'docker build -t cutem/python-build .'
+                sh 'sudo docker build -t cutem/python-build .'
             }
         }
         stage('Test') {
