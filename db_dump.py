@@ -1,6 +1,6 @@
 import os
 import mysql.connector as mydb
-from src.service.dolls_service import *
+from src.service.dolls_service import DollsYamlRepository
 
 
 connect_args = {
@@ -16,20 +16,21 @@ cursor = db.cursor()
 
 select = 'SELECT count(*) FROM dolls'
 delete = 'DELETE FROM dolls'
-insert = 'INSERT INTO dolls (name, type, star, time, link_url, how_to_get, image_url) VALUES (%s, %s, %s, %s, %s, %s, %s)'
+insert = 'INSERT INTO dolls (name, type, star, time, link_url, how_to_get, image_url) ' + \
+    'VALUES (%s, %s, %s, %s, %s, %s, %s)'
 
 dolls = DollsYamlRepository().result
 
-#cursor.execute(delete)
+# cursor.execute(delete)
 
-#for d in dolls:
-#    params = (d.name, d.type, d.star, str(d.time.strftime('%H:%M:%S')), d.link_url, d.how_to_get, d.image_url)
-#    cursor.execute(insert, params)
-#db.commit()
+# for d in dolls:
+#     params = (d.name, d.type, d.star, str(d.time.strftime('%H:%M:%S')),
+#     d.link_url, d.how_to_get, d.image_url)
+#     cursor.execute(insert, params)
+# db.commit()
 
 result = cursor.execute(select)
 print(cursor.fetchone())
-
 
 cursor.close()
 db.close()

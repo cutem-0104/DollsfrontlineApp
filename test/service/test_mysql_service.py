@@ -12,7 +12,7 @@ class TestMysqlService(unittest.TestCase):
             'password': os.environ.get('MYSQL_PASSWORD'),
             'database': 'dollsfrontline'
         }
-        
+
         db = mydb.connect(**connect_args)
         self.assertTrue(db.is_connected())
         db.close()

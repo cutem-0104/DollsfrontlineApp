@@ -1,6 +1,5 @@
 import yaml
 import json
-from src.service.dolls_service import DollsScrapingRepository
 from datetime import datetime
 
 
