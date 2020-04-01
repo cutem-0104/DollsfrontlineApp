@@ -28,7 +28,7 @@ pipeline {
             agent {
                 docker {
                     image 'cutem/python-build'
-                    args '-e MYSQL_SERVER=${MYSQL_SERVER} MYSQL_PASSWORD=${MYSQL_PASSWORD}'
+                    args '-e MYSQL_SERVER=${MYSQL_SERVER} -e MYSQL_PASSWORD=${MYSQL_PASSWORD}'
                 }
             }
             steps {
