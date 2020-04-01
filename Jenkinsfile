@@ -15,6 +15,10 @@ def failedPayload = [[
 
 pipeline {
     agent none
+    environment {
+        mysqlserver = sh(returnStdout: true, script: 'echo $MYSQL_SERVER')
+        mysqlpassword = sh(returnStdout: true, script: 'echo $MYSQL_PASSWORD')
+    }
     stages {
         stage('SetUp') {
             agent {
@@ -28,7 +32,7 @@ pipeline {
             agent {
                 docker {
                     image 'cutem/python-build'
-                    args '-e MYSQL_SERVER=${MYSQL_SERVER} -e MYSQL_PASSWORD=${MYSQL_PASSWORD}'
+                    args '-e MYSQL_SERVER=${mysqlserver} -e MYSQL_PASSWORD=${mysqlpassword}'
                 }
             }
             steps {
