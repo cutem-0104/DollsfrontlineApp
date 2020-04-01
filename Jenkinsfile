@@ -27,6 +27,7 @@ pipeline {
                 label 'master'
             }
             steps {
+                sh 'echo ${mysqlserver}'
                 sh 'docker build -t cutem/python-build .'
             }
         }
