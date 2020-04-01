@@ -27,7 +27,3 @@ class JsonDumper():
 
         with open(file_name + '.json', 'w') as file:
             json.dump(json.dumps(data, default=expireEncoda), file)
-
-
-dd = DollsDump(DollsScrapingRepository(), JsonDumper())
-dd.dump_file()

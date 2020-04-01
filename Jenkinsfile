@@ -26,7 +26,11 @@ pipeline {
         }
         stage('Test') {
             agent {
-                docker { image 'cutem/python-build' }
+                docker {
+                    image 'cutem/python-build'
+                    args '-e MYSQL_SERVER=${MYSQL_SERVER}'
+                    args '-e MYSQL_PASSWORD=${MYSQL_PASSWORD}'
+                }
             }
             steps {
                 script {
