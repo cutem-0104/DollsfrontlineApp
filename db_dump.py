@@ -16,7 +16,8 @@ cursor = db.cursor()
 
 select = 'SELECT count(*) FROM dolls'
 delete = 'DELETE FROM dolls'
-insert = 'INSERT INTO dolls (name, type, star, time, link_url, how_to_get, image_url) ' + \
+insert = 'INSERT INTO ' + \
+    'dolls (name, type, star, time, link_url, how_to_get, image_url) ' + \
     'VALUES (%s, %s, %s, %s, %s, %s, %s)'
 
 dolls = DollsYamlRepository().result
