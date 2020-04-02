@@ -22,7 +22,7 @@ class MySqlService():
     def select_all(self):
         select = 'SELECT * FROM dolls'
         db = self.connect()
-        cursor = db.cursor()
+        cursor = db.cursor(dictionary=True)
         cursor.execute(select)
         result = cursor.fetchall()
         cursor.close()
@@ -32,7 +32,7 @@ class MySqlService():
     def select_count(self):
         select = 'SELECT count(*) FROM dolls'
         db = self.connect()
-        cursor = db.cursor()
+        cursor = db.cursor(dictionary=True)
         cursor.execute(select)
         result = cursor.fetchone()
         cursor.close()

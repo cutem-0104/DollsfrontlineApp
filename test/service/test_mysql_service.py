@@ -9,11 +9,10 @@ class TestMysqlService(unittest.TestCase):
     def test_select_all(self):
         result = MySqlService().select_all()
         for d in result:
-            self.assertIsNotNone(d.name)
+            self.assertIsNotNone(d['name'])
 
     def test_select_count(self):
-        count = MySqlService().select_count()[0]
-        print(count)
+        count = MySqlService().select_count()['count(*)']
         self.assertGreater(count, 0)
 
 
