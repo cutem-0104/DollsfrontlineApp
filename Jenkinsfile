@@ -20,8 +20,8 @@ pipeline {
     environment {
         // mysqlserver = sh(returnStdout: true, script: 'echo $MYSQL_SERVER')
         // mysqlpassword = sh(returnStdout: true, script: 'echo $MYSQL_PASSWORD')
-        mysqlserver = $MYSQL_SERVER
-        mysqlpassword = $MYSQL_PASSWORD
+        mysqlserver = ${MYSQL_SERVER}
+        mysqlpassword = ${MYSQL_PASSWORD}
     }
     stages {
         stage('SetUp') {
