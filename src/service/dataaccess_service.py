@@ -1,6 +1,5 @@
 import os
 import mysql.connector as mydb
-from src.service.dolls_service import DollsYamlRepository
 
 
 class MySqlService():    
@@ -26,18 +25,16 @@ class MySqlService():
         cursor = db.cursor()
         cursor.execute(select)
         result = cursor.fetchall()
-        
         cursor.close()
         db.close()
         return result
-        
+
     def select_count(self):
         select = 'SELECT count(*) FROM dolls'
         db = self.connect()
         cursor = db.cursor()
         cursor.execute(select)
         result = cursor.fetchone()
-        
         cursor.close()
         db.close()
         return result

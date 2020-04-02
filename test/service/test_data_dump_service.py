@@ -7,7 +7,6 @@ from src.service.dolls_service import DollsScrapingRepository
 class TestDataDumpService(unittest.TestCase):
     def setUp(self):
         self.repository = DollsScrapingRepository()
-        
 
     def test_yaml_dump(self):
         os.remove('data/dolls_out.yaml')

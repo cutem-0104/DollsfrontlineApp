@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import datetime
 from typing import NamedTuple
 
+
 # Doll = namedtuple('Doll', (
 #     'name', 'type', 'star', 'time', 'link_url', 'how_to_get', 'image_url'))
 class Doll(NamedTuple):
@@ -72,6 +73,7 @@ class DollsYamlRepository():
 
         with open('data/dolls_out.yaml') as file:
             return yaml.load(file)
+
 
 class DollsSearchService():
     def __init__(self, repository):
