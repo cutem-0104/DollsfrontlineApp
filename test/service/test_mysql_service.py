@@ -12,7 +12,8 @@ class TestMysqlService(unittest.TestCase):
             self.assertIsNotNone(d.name)
 
     def test_select_count(self):
-        count = MySqlService().select_count()
+        count = MySqlService().select_count()[0]
+        print(count)
         self.assertGreater(count, 0)
 
 
