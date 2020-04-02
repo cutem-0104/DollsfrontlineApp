@@ -20,6 +20,7 @@ pipeline {
     environment {
         // mysqlserver = sh(returnStdout: true, script: 'echo $MYSQL_SERVER')
         // mysqlpassword = sh(returnStdout: true, script: 'echo $MYSQL_PASSWORD')
+        // ↑の書き方は変数がビルドログに表示される
         mysqlserver = "${MYSQL_SERVER}"
         mysqlpassword = "${MYSQL_PASSWORD}"
     }
