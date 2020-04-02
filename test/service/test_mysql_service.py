@@ -1,22 +1,21 @@
 import unittest
 import os
-import mysql.connector as mydb
+from src.service.dataaccess_service import MySqlService
 
 
 class TestMysqlService(unittest.TestCase):
     def test_mysql_connection(self):
-        connect_args = {
-            'host': os.environ.get('MYSQL_SERVER'),
-            'port': 3306,
-            'user': 'root',
-            'password': os.environ.get('MYSQL_PASSWORD'),
-            'database': 'dollsfrontline'
-        }
+        self.assertTrue(MySqlService().is_connected())
 
-        db = mydb.connect(**connect_args)
-        self.assertTrue(db.is_connected())
-        db.close()
-
+    def test_select_all(self):
+        result = MySqlService().select_all()
+        for d in result:
+            self.assertIsNotNone(d.name)
+        
+    def test_select_count(self):
+        count = mysql.select_count()
+        self.assertGreater(count, 0)
+        
 
 if __name__ == '__main__':
     unittest.main()

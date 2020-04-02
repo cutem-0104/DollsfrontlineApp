@@ -2,10 +2,18 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import datetime
-from collections import namedtuple
+from typing import NamedTuple
 
-Doll = namedtuple('Doll', (
-    'name', 'type', 'star', 'time', 'link_url', 'how_to_get', 'image_url'))
+# Doll = namedtuple('Doll', (
+#     'name', 'type', 'star', 'time', 'link_url', 'how_to_get', 'image_url'))
+class Doll(NamedTuple):
+    name: str
+    type: str
+    star: str
+    time: str
+    link_url: str
+    how_to_get: str
+    image_url: str
 
 
 def get_time(strtime):
@@ -64,7 +72,6 @@ class DollsYamlRepository():
 
         with open('data/dolls_out.yaml') as file:
             return yaml.load(file)
-
 
 class DollsSearchService():
     def __init__(self, repository):
