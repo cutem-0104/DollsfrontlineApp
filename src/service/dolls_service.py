@@ -2,17 +2,27 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import datetime
-from collections import namedtuple
+from typing import NamedTuple
 
-Doll = namedtuple('Doll', (
-    'name', 'type', 'star', 'time', 'link_url', 'how_to_get', 'image_url'))
+
+# Doll = namedtuple('Doll', (
+#     'name', 'type', 'star', 'time', 'link_url', 'how_to_get', 'image_url'))
+class Doll(NamedTuple):
+    name: str
+    type: str
+    star: str
+    time: int
+    link_url: str
+    how_to_get: str
+    image_url: str
 
 
 def get_time(strtime):
     try:
-        return datetime.datetime.strptime(strtime, '%H:%M')
+        time = datetime.datetime.strptime(strtime, '%H:%M')
+        return time.hour * 60 + time.minute
     except ValueError:
-        return datetime.datetime.strptime('00:00', '%H:%M')
+        return 0
 
 
 class DollsScrapingRepository():
@@ -84,8 +94,8 @@ class DollsSearchService():
 
         equal_time = True
         if (hour != '-'):
-            input_time = get_time(hour + ':' + minute)
-            equal_time = abs(doll.time - input_time).total_seconds() == 0
+            input_time = int(hour) * 60 + int(minute)
+            equal_time = abs(doll.time - input_time) == 0
 
         equal_type = True
         if (gun_type != '-'):

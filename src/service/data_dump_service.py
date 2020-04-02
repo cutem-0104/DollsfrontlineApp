@@ -1,7 +1,5 @@
 import yaml
-import json
-from src.service.dolls_service import DollsScrapingRepository
-from datetime import datetime
+import csv
 
 
 class DollsDump():
@@ -19,15 +17,16 @@ class YamlDumper():
             yaml.dump(data, file)
 
 
-class JsonDumper():
+class CsvDollDumper():
     def write(self, file_name, data):
-        def expireEncoda(object):
-            if isinstance(object, datetime):
-                return object.isoformat()
-
-        with open(file_name + '.json', 'w') as file:
-            json.dump(json.dumps(data, default=expireEncoda), file)
-
-
-dd = DollsDump(DollsScrapingRepository(), JsonDumper())
-dd.dump_file()
+        with open(file_name + '.csv', 'w', encoding='utf-8') as file:
+            w = csv.writer(file)
+            w.writerows([(
+                i+1,
+                d.name,
+                d.type,
+                d.star,
+                d.time,
+                d.link_url,
+                d.how_to_get,
+                d.image_url) for i, d in enumerate(data)])

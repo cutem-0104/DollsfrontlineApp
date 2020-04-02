@@ -4,3 +4,4 @@ RUN apt-get install -y python3 python3-pip
 RUN pip3 install PyYAML
 RUN pip3 install beautifulsoup4
 RUN pip3 install flake8
+RUN pip3 install mysql-connector-python

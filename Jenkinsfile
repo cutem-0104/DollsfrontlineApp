@@ -14,19 +14,32 @@ def failedPayload = [[
 ]]
 
 pipeline {
-    agent none
+    agent {
+        label 'master'
+    }
+    environment {
+        // mysqlserver = sh(returnStdout: true, script: 'echo $MYSQL_SERVER')
+        // mysqlpassword = sh(returnStdout: true, script: 'echo $MYSQL_PASSWORD')
+        // ↑の書き方は変数がビルドログに表示される
+        mysqlserver = "${MYSQL_SERVER}"
+        mysqlpassword = "${MYSQL_PASSWORD}"
+    }
     stages {
         stage('SetUp') {
             agent {
                 label 'master'
             }
             steps {
+                sh 'echo ${testtext}'
                 sh 'docker build -t cutem/python-build .'
             }
         }
         stage('Test') {
             agent {
-                docker { image 'cutem/python-build' }
+                docker {
+                    image 'cutem/python-build'
+                    args '-e MYSQL_SERVER=${mysqlserver} -e MYSQL_PASSWORD=${mysqlpassword}'
+                }
             }
             steps {
                 script {
