@@ -67,7 +67,7 @@ class ResultView(object):
         label = ui.Label()
         label.frame = (160, 130, self.v.width - 190, 30)
         hour = doll.time // 60
-        minute = doll.time % 60 
+        minute = doll.time % 60
         label.text = str(hour) + ':' + str(minute) + ':00'
         label.background_color = (0, 0, 0, 0.5)
         label.tint_color = ('white')
