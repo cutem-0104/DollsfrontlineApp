@@ -9,13 +9,11 @@ class TestDataDumpService(unittest.TestCase):
         self.repository = DollsScrapingRepository()
 
     def test_yaml_dump(self):
-        os.remove('data/dolls_out.yaml')
         dd = DollsDump(self.repository, YamlDumper())
         dd.dump_file()
         self.assertTrue(os.path.exists('data/dolls_out.yaml'))
 
     def test_csv_dump(self):
-        os.remove('data/dolls_out.csv')
         dd = DollsDump(self.repository, CsvDollDumper())
         dd.dump_file()
         self.assertTrue(os.path.exists('data/dolls_out.csv'))
