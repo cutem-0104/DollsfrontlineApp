@@ -26,7 +26,7 @@ class CsvDollDumper():
                 d.name,
                 d.type,
                 d.star,
-                str(d.time.strftime('%H:%M:%S')),
+                d.time,
                 d.link_url,
                 d.how_to_get,
                 d.image_url) for i, d in enumerate(data)])

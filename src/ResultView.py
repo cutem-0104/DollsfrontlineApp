@@ -66,7 +66,9 @@ class ResultView(object):
     def create_time_label(self, doll):
         label = ui.Label()
         label.frame = (160, 130, self.v.width - 190, 30)
-        label.text = str(doll.time.strftime('%H:%M:%S'))
+        hour = doll.time // 60
+        minute = doll.time % 60 
+        label.text = str(hour) + ':' + str(minute) + ':00'
         label.background_color = (0, 0, 0, 0.5)
         label.tint_color = ('white')
         label.alignment = ui.ALIGN_CENTER

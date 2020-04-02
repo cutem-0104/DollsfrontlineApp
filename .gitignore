@@ -1,2 +1,3 @@
 # local env setting file
 /environment.py
+/data/*
