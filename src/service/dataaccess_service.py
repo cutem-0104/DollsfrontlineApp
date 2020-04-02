@@ -2,7 +2,7 @@ import os
 import mysql.connector as mydb
 
 
-class MySqlService():    
+class MySqlService():
     def connect(self):
         connect_args = {
             'host': os.environ.get('MYSQL_SERVER'),
